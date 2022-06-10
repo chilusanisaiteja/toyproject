@@ -1,0 +1,51 @@
+.main-container{
+    height:100vh;
+    background-color: rgb(221, 225, 16);
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: brown;
+    margin: 0px;
+}
+th{
+    text-align: center;
+    color: rgb(33, 77, 111);
+    padding: 20px;
+    margin: 0%;
+}
+td{
+    text-align: center;
+    padding: 20px;
+}
+h2{
+    color: rgb(191, 27, 87);
+    text-align: center;
+}
+.yes{
+    color:rgb(183, 106, 13)
+}
+#table{
+    border-collapse: collapse;
+    width: 100%;
+}
+#table td{
+    border: 1px solid rgb(197, 178, 178);
+    padding: 8px;
+}
+
+#table th{
+    border: 1px solid rgb(209, 178, 178);
+    padding: 8px;
+}
+
+#table tr:nth-child(even){
+    border: 2px solid rgb(143, 18, 18);
+background-color: rgb(92, 198, 31);
+
+}
+
+#table .yes {
+    background-color: rgb(71, 15, 68);
+}
