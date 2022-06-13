@@ -1,6 +1,7 @@
 # Toyproject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+project was made in vsc.
 
 ## Introduction (Aim)
  Project contains table data with columns as name, age, Dob,like React(Yes/No), intrests. 
@@ -8,6 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Technologies
 Angular cli
+VSC
 javascript
 HTML
 CSS
