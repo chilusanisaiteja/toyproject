@@ -8,10 +8,10 @@ project was made in vsc.
  Used HTMl and CSS files to create a table.
 
 ## Technologies
-Angular cli
-VSC
-javascript
-HTML
+Angular cli,
+VSC,
+javascript, 
+HTML, 
 CSS
 
 ## Launch
